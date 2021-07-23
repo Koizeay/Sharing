@@ -1,7 +1,6 @@
 {
 "radios":[
 {
-{
 "name":"GRRIF",
 "imageurl":"https://i.goopics.net/JJLVJ.png",
 "url":"http://grrif.ice.infomaniak.ch/grrif-high.mp3"
@@ -51,6 +50,7 @@
 "imageurl":"https://i.goopics.net/LRra8.png",
 "url":"http://rougefm.ice.infomaniak.ch/rougefm-high.mp3"
 },
+{
 "name":"RTN",
 "imageurl":"https://i.goopics.net/9GPaq.png",
 "url":"http://rtn.ice.infomaniak.ch/rtn-high.mp3"
