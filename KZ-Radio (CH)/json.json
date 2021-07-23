@@ -1,44 +1,10 @@
 {
 "radios":[
 {
-"name":"RTN",
-"imageurl":"https://i.goopics.net/9GPaq.png",
-"url":"http://rtn.ice.infomaniak.ch/rtn-high.mp3"
-},
-{
-"name":"RJB",
-"imageurl":"https://i.goopics.net/oL1aD.png",
-"url":"http://rjb.ice.infomaniak.ch/rjb-high.mp3"
-},
-{
-"name":"RFJ",
-"imageurl":"https://i.goopics.net/xQeNo.png",
-"url":"http://rfj.ice.infomaniak.ch/rfj-high.mp3"
-},
 {
 "name":"GRRIF",
 "imageurl":"https://i.goopics.net/JJLVJ.png",
 "url":"http://grrif.ice.infomaniak.ch/grrif-high.mp3"
-},
-{
-"name":"RTS La Première",
-"imageurl":"https://i.goopics.net/d0y57.png",
-"url":"http://stream.srg-ssr.ch/m/la-1ere/mp3_128"
-},
-{
-"name":"RTS Espace 2",
-"imageurl":"https://i.goopics.net/NgjdK.png",
-"url":"http://stream.srg-ssr.ch/m/espace-2/mp3_128"
-},
-{
-"name":"RTS Couleur 3",
-"imageurl":"https://i.goopics.net/PLVdn.png",
-"url":"http://stream.srg-ssr.ch/m/couleur3/mp3_128"
-},
-{
-"name":"RTS Option Musique",
-"imageurl":"https://i.goopics.net/ymXp9.png",
-"url":"http://stream.srg-ssr.ch/m/option-musique/mp3_128"
 },
 {
 "name":"LFM",
@@ -49,16 +15,6 @@
 "name":"One FM",
 "imageurl":"https://i.goopics.net/A2Zwa.png",
 "url":"http://onefm.ice.infomaniak.ch/onefm-high.mp3"
-},
-{
-"name":"Rouge FM",
-"imageurl":"https://i.goopics.net/LRra8.png",
-"url":"http://rougefm.ice.infomaniak.ch/rougefm-high.mp3"
-},
-{
-"name":"Rhône FM",
-"imageurl":"https://i.goopics.net/Kp5Vp.png",
-"url":"http://rhonefm.ice.infomaniak.ch/rhonefm-high.mp3"
 },
 {
 "name":"Radio Fribourg",
@@ -74,6 +30,50 @@
 "name":"Radio Ouistiti",
 "imageurl":"https://i.goopics.net/ga2aK.png",
 "url":"http://radioouistiti2.ice.infomaniak.ch/radioouistiti-high.mp3"
+},
+{
+"name":"RFJ",
+"imageurl":"https://i.goopics.net/xQeNo.png",
+"url":"http://rfj.ice.infomaniak.ch/rfj-high.mp3"
+},
+{
+"name":"Rhône FM",
+"imageurl":"https://i.goopics.net/Kp5Vp.png",
+"url":"http://rhonefm.ice.infomaniak.ch/rhonefm-high.mp3"
+},
+{
+"name":"RJB",
+"imageurl":"https://i.goopics.net/oL1aD.png",
+"url":"http://rjb.ice.infomaniak.ch/rjb-high.mp3"
+},
+{
+"name":"Rouge FM",
+"imageurl":"https://i.goopics.net/LRra8.png",
+"url":"http://rougefm.ice.infomaniak.ch/rougefm-high.mp3"
+},
+"name":"RTN",
+"imageurl":"https://i.goopics.net/9GPaq.png",
+"url":"http://rtn.ice.infomaniak.ch/rtn-high.mp3"
+},
+{
+"name":"RTS Couleur 3",
+"imageurl":"https://i.goopics.net/PLVdn.png",
+"url":"http://stream.srg-ssr.ch/m/couleur3/mp3_128"
+},
+{
+"name":"RTS Espace 2",
+"imageurl":"https://i.goopics.net/NgjdK.png",
+"url":"http://stream.srg-ssr.ch/m/espace-2/mp3_128"
+},
+{
+"name":"RTS Option Musique",
+"imageurl":"https://i.goopics.net/ymXp9.png",
+"url":"http://stream.srg-ssr.ch/m/option-musique/mp3_128"
+},
+{
+"name":"RTS La Première",
+"imageurl":"https://i.goopics.net/d0y57.png",
+"url":"http://stream.srg-ssr.ch/m/la-1ere/mp3_128"
 }
 ]
 }
