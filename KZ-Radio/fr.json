@@ -1,19 +1,68 @@
 {
 "radios":[
 {
+"name":"BFM Business",
+"imageurl":"https://i.goopics.net/7dbwr.png",
+"url":"http://chai5she.cdn.dvmr.fr/bfmbusiness"
+},
+{
+"name":"Chérie FM",
+"imageurl":"https://i.goopics.net/qkPNa.png",
+"url":"http://scdn.nrjaudio.fm/adwz2/fr/30201/mp3_128.mp3"
+},
+{
+"name":"Europe 1",
+"imageurl":"https://i.goopics.net/NjlmZ.png",
+"url":"http://stream.europe1.fr/europe1.mp3"
+},
+{
+"name":"France Info",
+"imageurl":"https://i.goopics.net/wG9Y4.png",
+"url":"http://icecast.radiofrance.fr/franceinfo-midfi.mp3"
+},
+{
+"name":"Fun Radio France",
+"imageurl":"https://i.goopics.net/dyxQa.png",
+"url":"http://streamer-01.rtl.fr/fun-1-44-128"
+},
+{
+"name":"Nostalgie France",
+"imageurl":"https://i.goopics.net/Epqw5.png",
+"url":"http://scdn.nrjaudio.fm/adwz2/fr/30601/mp3_128.mp3"
+},
 "name":"NRJ (France)",
-"imageurl":"https://raw.githubusercontent.com/Koizeay-YTB/KZ-Radio/main/nrj.png",
+"imageurl":"https://i.goopics.net/j79WR.png",
 "url":"http://scdn.nrjaudio.fm/adwz2/fr/30001/mp3_128.mp3"
 },
 {
 "name":"Rire & Chansons",
-"imageurl":"https://raw.githubusercontent.com/Koizeay-YTB/KZ-Radio/main/rire_et_chansons.png",
+"imageurl":"https://i.goopics.net/VmPmm.png",
 "url":"http://scdn.nrjaudio.fm/adwz2/fr/30401/mp3_128.mp3"
 },
 {
+"name":"RFM",
+"imageurl":"https://i.goopics.net/8Nlwp.png",
+"url":"https://ais-live.cloud-services.paris:8443/rfm.mp3"
+},
+{
+"name":"RTL",
+"imageurl":"https://i.goopics.net/a08Jp.png",
+"url":"http://icecast.rtl.fr/rtl-1-44-128"
+},
+{
+"name":"RTL 2",
+"imageurl":"https://i.goopics.net/9PldV.png",
+"url":"http://streamer-02.rtl.fr/rtl2-1-44-128"
+},
+{
 "name":"Skyrock",
-"imageurl":"https://raw.githubusercontent.com/Koizeay-YTB/KZ-Radio/main/skyrock.png",
+"imageurl":"https://i.goopics.net/Qaqjr.png",
 "url":"http://icecast.skyrock.net/s/natio_mp3_128k"
+},
+{
+"name":"Virgin Radio",
+"imageurl":"https://i.goopics.net/29D3e.png",
+"url":"http://stream.virginradio.fr/virgin.mp3"
 }
 ]
 }
