@@ -1,0 +1,19 @@
+{
+"radios":[
+{
+"name":"NRJ (France)",
+"imageurl":"https://raw.githubusercontent.com/Koizeay-YTB/KZ-Radio/main/nrj.png",
+"url":"http://scdn.nrjaudio.fm/adwz2/fr/30001/mp3_128.mp3"
+},
+{
+"name":"Rire & Chansons",
+"imageurl":"https://raw.githubusercontent.com/Koizeay-YTB/KZ-Radio/main/rire_et_chansons.png",
+"url":"http://scdn.nrjaudio.fm/adwz2/fr/30401/mp3_128.mp3"
+},
+{
+"name":"Skyrock",
+"imageurl":"https://raw.githubusercontent.com/Koizeay-YTB/KZ-Radio/main/skyrock.png",
+"url":"http://icecast.skyrock.net/s/natio_mp3_128k"
+}
+]
+}
