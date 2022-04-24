@@ -1,0 +1,134 @@
+{
+"radios":[
+{
+"name":"Canal 3 (DE)",
+"imageurl":"https://raw.githubusercontent.com/Koizeay/Sharing/main/KZ-Radio/logos/ch_de/canal3.png",
+"url":"https://radio.upstream-cloud.ch/canal3allemand-192.mp3"
+},
+{
+"name":"Diis Radio",
+"imageurl":"https://raw.githubusercontent.com/Koizeay/Sharing/main/KZ-Radio/logos/ch_de/diis-radio.png",
+"url":"https://stream.diis.ch/stream"
+},
+{
+"name":"FM1",
+"imageurl":"https://raw.githubusercontent.com/Koizeay/Sharing/main/KZ-Radio/logos/ch_de/fm1.png",
+"url":"http://radiofm1.ice.infomaniak.ch/radiofm1-128.mp3"
+},
+{
+"name":"GDS.FM",
+"imageurl":"https://raw.githubusercontent.com/Koizeay/Sharing/main/KZ-Radio/logos/ch_de/gdsfm.png",
+"url":"http://gdsfm.out.airtime.pro:8000/gdsfm_a"
+},
+{
+"name":"Jam On Radio",
+"imageurl":"https://raw.githubusercontent.com/Koizeay/Sharing/main/KZ-Radio/logos/ch_de/jam-on-radio.png",
+"url":"http://jam-on.ice.infomaniak.ch/jam-on-128.mp3"
+},
+{
+"name":"James FM",
+"imageurl":"https://raw.githubusercontent.com/Koizeay/Sharing/main/KZ-Radio/logos/ch_de/james-fm.png",
+"url":"http://jamesfm.ice.infomaniak.ch/jamesfm.mp3"
+},
+{
+"name":"Life Channel",
+"imageurl":"https://raw.githubusercontent.com/Koizeay/Sharing/main/KZ-Radio/logos/ch_de/life-channel.png",
+"url":"http://stream1.lifechannel.ch/LIFECHANNEL"
+},
+{
+"name":"RaBe",
+"imageurl":"https://raw.githubusercontent.com/Koizeay/Sharing/main/KZ-Radio/logos/ch_de/rabe.png",
+"url":"http://stream.rabe.ch/livestream/rabe-mid.mp3"
+},
+{
+"name":"Radio Argovia",
+"imageurl":"https://raw.githubusercontent.com/Koizeay/Sharing/main/KZ-Radio/logos/ch_de/radio-argovia.png",
+"url":"http://icecast.argovia.ch/argovia-rc-96-aac"
+},
+{
+"name":"Radio Bern1",
+"imageurl":"https://raw.githubusercontent.com/Koizeay/Sharing/main/KZ-Radio/logos/ch_de/radio-bern1.png",
+"url":"http://mp3.radiobern1.ch/radiobern1128k"
+},
+{
+"name":"Radio Eviva",
+"imageurl":"https://raw.githubusercontent.com/Koizeay/Sharing/main/KZ-Radio/logos/ch_de/radio-eviva.png",
+"url":"http://radioeviva.ice.infomaniak.ch/radioeviva-128.mp3"
+},
+{
+"name":"Radio Freiburg",
+"imageurl":"https://raw.githubusercontent.com/Koizeay/Sharing/main/KZ-Radio/logos/ch_de/radio-freiburg.png",
+"url":"http://radiofreiburg.ice.infomaniak.ch/radiofreiburg-high.mp3"
+},
+{
+"name":"Radio Inside",
+"imageurl":"https://raw.githubusercontent.com/Koizeay/Sharing/main/KZ-Radio/logos/ch_de/radio-inside.png",
+"url":"https://radioinside.ice.infomaniak.ch/radioinside-128.mp3"
+},
+{
+"name":"Radio Melody",
+"imageurl":"https://raw.githubusercontent.com/Koizeay/Sharing/main/KZ-Radio/logos/ch_de/radio-melody.png",
+"url":"http://fm1melody.ice.infomaniak.ch/fm1melody-128"
+},
+{
+"name":"Radio Munot",
+"imageurl":"https://raw.githubusercontent.com/Koizeay/Sharing/main/KZ-Radio/logos/ch_de/radio-munot.png",
+"url":"http://streaming.swisstxt.ch/m/radiomunot/mp3_128"
+},
+{
+"name":"Radio Top",
+"imageurl":"https://raw.githubusercontent.com/Koizeay/Sharing/main/KZ-Radio/logos/ch_de/radio-top.png",
+"url":"http://icecast.radiotop.ch/radiotop_128"
+},
+{
+"name":"Radio Zurisee",
+"imageurl":"https://raw.githubusercontent.com/Koizeay/Sharing/main/KZ-Radio/logos/ch_de/radio-zurisee.png",
+"url":"http://mp3.radio.ch/radiozuerisee128k"
+},
+{
+"name":"SRF 1",
+"imageurl":"https://raw.githubusercontent.com/Koizeay/Sharing/main/KZ-Radio/logos/ch_de/srf1.png",
+"url":"http://stream.srg-ssr.ch/m/drs1/mp3_128"
+},
+{
+"name":"SRF 2",
+"imageurl":"https://raw.githubusercontent.com/Koizeay/Sharing/main/KZ-Radio/logos/ch_de/srf2.png",
+"url":"http://stream.srg-ssr.ch/m/drs2/mp3_128"
+},
+{
+"name":"SRF 3",
+"imageurl":"https://raw.githubusercontent.com/Koizeay/Sharing/main/KZ-Radio/logos/ch_de/srf3.png",
+"url":"http://stream.srg-ssr.ch/m/drs3/mp3_128"
+},
+{
+"name":"SRF 4",
+"imageurl":"https://raw.githubusercontent.com/Koizeay/Sharing/main/KZ-Radio/logos/ch_de/srf4.png",
+"url":"http://stream.srg-ssr.ch/m/drs4news/mp3_128"
+},
+{
+"name":"SRF Musikwelle",
+"imageurl":"https://raw.githubusercontent.com/Koizeay/Sharing/main/KZ-Radio/logos/ch_de/srf-musikwelle.png",
+"url":"http://stream.srg-ssr.ch/m/drsmw/mp3_128"
+},
+{
+"name":"SRF Virus",
+"imageurl":"https://raw.githubusercontent.com/Koizeay/Sharing/main/KZ-Radio/logos/ch_de/srf-virus.png",
+"url":"http://stream.srg-ssr.ch/m/drsvirus/mp3_128"
+},
+{
+"name":"Sunshine Radio",
+"imageurl":"https://raw.githubusercontent.com/Koizeay/Sharing/main/KZ-Radio/logos/ch_de/sunshine-radio.png",
+"url":"http://sunshineradio.ice.infomaniak.ch/sunshineradio-128.mp3"
+},
+{
+"name":"Top Two",
+"imageurl":"https://raw.githubusercontent.com/Koizeay/Sharing/main/KZ-Radio/logos/ch_de/top-two.png",
+"url":"https://radiotop.ice.infomaniak.ch/toptwo96.aac"
+},
+{
+"name":"Vintage Radio",
+"imageurl":"https://raw.githubusercontent.com/Koizeay/Sharing/main/KZ-Radio/logos/ch_de/vintage-radio.png",
+"url":"http://vintageradio.ice.infomaniak.ch/vintageradio-high.mp3"
+}
+]
+}
