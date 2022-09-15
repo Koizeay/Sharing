@@ -1,6 +1,11 @@
 {
 "radios":[
 {
+"name":"Beur FM",
+"imageurl":"https://i.goopics.net/f8jtha.png",
+"url":"http://broadcast.infomaniak.ch/beurfm-high.mp3"
+},
+{
 "name":"Chérie FM",
 "imageurl":"https://i.goopics.net/qkPNa.png",
 "url":"http://scdn.nrjaudio.fm/adwz2/fr/30201/mp3_128.mp3"
