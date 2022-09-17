@@ -16,14 +16,44 @@
 "url":"http://stream.europe1.fr/europe1.mp3"
 },
 {
+"name":"Flip",
+"imageurl":"https://i.goopics.net/71axoj.png",
+"url":"http://icecast.radiofrance.fr/fip-midfi.mp3"
+},
+{
+"name":"France Culture",
+"imageurl":"https://i.goopics.net/inj0fu.png",
+"url":"http://icecast.radiofrance.fr/franceculture-midfi.mp3"
+},
+{
 "name":"France Info",
 "imageurl":"https://i.goopics.net/wG9Y4.png",
 "url":"http://icecast.radiofrance.fr/franceinfo-midfi.mp3"
 },
 {
+"name":"France Inter",
+"imageurl":"https://i.goopics.net/cyxnu3.png",
+"url":"http://icecast.radiofrance.fr/franceinter-midfi.mp3"
+},
+{
+"name":"France Musique",
+"imageurl":"https://i.goopics.net/7qbblb.png",
+"url":"http://direct.francemusique.fr/live/francemusique-midfi.mp3"
+},
+{
 "name":"Fun Radio France",
 "imageurl":"https://i.goopics.net/dyxQa.png",
 "url":"http://streamer-01.rtl.fr/fun-1-44-128"
+},
+{
+"name":"M Radio",
+"imageurl":"https://i.goopics.net/6o3hyt.png",
+"url":"http://mfm.ice.infomaniak.ch/mfm-128.mp3"
+},
+{
+"name":"Mouv'",
+"imageurl":"https://i.goopics.net/8b6by8.png",
+"url":"http://icecast.radiofrance.fr/mouv-midfi.mp3"
 },
 {
 "name":"Nostalgie France",
@@ -34,6 +64,21 @@
 "name":"NRJ (France)",
 "imageurl":"https://i.goopics.net/j79WR.png",
 "url":"http://scdn.nrjaudio.fm/adwz2/fr/30001/mp3_128.mp3"
+},
+{
+"name":"Ouï FM",
+"imageurl":"https://i.goopics.net/u9c73e.png",
+"url":"http://ouifm.ice.infomaniak.ch/ouifm-high.mp3"
+},
+{
+"name":"Phare FM",
+"imageurl":"https://i.goopics.net/z2qspv.png",
+"url":"http://str0.creacast.com/pharefm"
+},
+{
+"name":"Radio Classique",
+"imageurl":"https://i.goopics.net/2a89pt.png",
+"url":"http://radioclassique.ice.infomaniak.ch/radioclassique-high.mp3"
 },
 {
 "name":"Rire & Chansons",
