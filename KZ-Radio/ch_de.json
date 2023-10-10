@@ -11,11 +11,6 @@
 "url":"https://stream.diis.ch/stream"
 },
 {
-"name":"FM1",
-"imageurl":"https://raw.githubusercontent.com/Koizeay/Sharing/main/KZ-Radio/logos/ch_de/fm1.png",
-"url":"http://radiofm1.ice.infomaniak.ch/radiofm1-128.mp3"
-},
-{
 "name":"GDS.FM",
 "imageurl":"https://raw.githubusercontent.com/Koizeay/Sharing/main/KZ-Radio/logos/ch_de/gdsfm.png",
 "url":"http://gdsfm.out.airtime.pro:8000/gdsfm_a"
@@ -41,19 +36,14 @@
 "url":"http://stream.rabe.ch/livestream/rabe-mid.mp3"
 },
 {
-"name":"Radio Argovia",
-"imageurl":"https://raw.githubusercontent.com/Koizeay/Sharing/main/KZ-Radio/logos/ch_de/radio-argovia.png",
-"url":"http://icecast.argovia.ch/argovia-rc-96-aac"
+"name":"Radio Basilisk",
+"imageurl":"https://raw.githubusercontent.com/Koizeay/Sharing/main/KZ-Radio/logos/ch_de/radio-basilisk.png",
+"url":"https://radiobasilisk-64.ice.infomaniak.ch/radiobasilisk-64-128-2.mp3"
 },
 {
-"name":"Radio Bern1",
-"imageurl":"https://raw.githubusercontent.com/Koizeay/Sharing/main/KZ-Radio/logos/ch_de/radio-bern1.png",
-"url":"http://mp3.radiobern1.ch/radiobern1128k"
-},
-{
-"name":"Radio Eviva",
-"imageurl":"https://raw.githubusercontent.com/Koizeay/Sharing/main/KZ-Radio/logos/ch_de/radio-eviva.png",
-"url":"http://radioeviva.ice.infomaniak.ch/radioeviva-128.mp3"
+"name":"Radio BeO",
+"imageurl":"https://raw.githubusercontent.com/Koizeay/Sharing/main/KZ-Radio/logos/ch_de/radio-beo.png",
+"url":"https://radiobeo2.mp3.green.ch/beo.mp3"
 },
 {
 "name":"Radio Freiburg",
@@ -66,9 +56,9 @@
 "url":"https://radioinside.ice.infomaniak.ch/radioinside-128.mp3"
 },
 {
-"name":"Radio Melody",
-"imageurl":"https://raw.githubusercontent.com/Koizeay/Sharing/main/KZ-Radio/logos/ch_de/radio-melody.png",
-"url":"http://fm1melody.ice.infomaniak.ch/fm1melody-128"
+"name":"Radio Kaiseregg",
+"imageurl":"https://raw.githubusercontent.com/Koizeay/Sharing/main/KZ-Radio/logos/ch_de/radio-kaiseregg.png",
+"url":"https://kaiseregg.ice.infomaniak.ch/stream128k.mp3"
 },
 {
 "name":"Radio Munot",
@@ -116,9 +106,9 @@
 "url":"http://stream.srg-ssr.ch/m/drsvirus/mp3_128"
 },
 {
-"name":"Sunshine Radio",
-"imageurl":"https://raw.githubusercontent.com/Koizeay/Sharing/main/KZ-Radio/logos/ch_de/sunshine-radio.png",
-"url":"http://sunshineradio.ice.infomaniak.ch/sunshineradio-128.mp3"
+"name":"Stadtfilter",
+"imageurl":"https://raw.githubusercontent.com/Koizeay/Sharing/main/KZ-Radio/logos/ch_de/stadtfilter.png",
+"url":"http://streamer1.stadtfilter.net:8406/stadtfilter.mp3"
 },
 {
 "name":"Top Two",
