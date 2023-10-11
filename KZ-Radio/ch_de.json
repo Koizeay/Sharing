@@ -13,27 +13,27 @@
 {
 "name":"GDS.FM",
 "imageurl":"https://raw.githubusercontent.com/Koizeay/Sharing/main/KZ-Radio/logos/ch_de/gdsfm.png",
-"url":"http://gdsfm.out.airtime.pro:8000/gdsfm_a"
+"url":"https://gdsfm.out.airtime.pro:8000/gdsfm_a"
 },
 {
 "name":"Jam On Radio",
 "imageurl":"https://raw.githubusercontent.com/Koizeay/Sharing/main/KZ-Radio/logos/ch_de/jam-on-radio.png",
-"url":"http://jam-on.ice.infomaniak.ch/jam-on-128.mp3"
+"url":"https://jam-on.ice.infomaniak.ch/jam-on-128.mp3"
 },
 {
 "name":"James FM",
 "imageurl":"https://raw.githubusercontent.com/Koizeay/Sharing/main/KZ-Radio/logos/ch_de/james-fm.png",
-"url":"http://jamesfm.ice.infomaniak.ch/jamesfm.mp3"
+"url":"https://jamesfm.ice.infomaniak.ch/jamesfm.mp3"
 },
 {
 "name":"Life Channel",
 "imageurl":"https://raw.githubusercontent.com/Koizeay/Sharing/main/KZ-Radio/logos/ch_de/life-channel.png",
-"url":"http://stream1.lifechannel.ch/LIFECHANNEL"
+"url":"https://stream1.lifechannel.ch/LIFECHANNEL"
 },
 {
 "name":"RaBe",
 "imageurl":"https://raw.githubusercontent.com/Koizeay/Sharing/main/KZ-Radio/logos/ch_de/rabe.png",
-"url":"http://stream.rabe.ch/livestream/rabe-mid.mp3"
+"url":"https://stream.rabe.ch/livestream/rabe-mid.mp3"
 },
 {
 "name":"Radio Basilisk",
@@ -48,7 +48,7 @@
 {
 "name":"Radio Freiburg",
 "imageurl":"https://raw.githubusercontent.com/Koizeay/Sharing/main/KZ-Radio/logos/ch_de/radio-freiburg.png",
-"url":"http://radiofreiburg.ice.infomaniak.ch/radiofreiburg-high.mp3"
+"url":"https://radiofreiburg.ice.infomaniak.ch/radiofreiburg-high.mp3"
 },
 {
 "name":"Radio Inside",
@@ -63,52 +63,52 @@
 {
 "name":"Radio Munot",
 "imageurl":"https://raw.githubusercontent.com/Koizeay/Sharing/main/KZ-Radio/logos/ch_de/radio-munot.png",
-"url":"http://streaming.swisstxt.ch/m/radiomunot/mp3_128"
+"url":"https://stream.srg-ssr.ch/m/radiomunot/mp3_128"
 },
 {
 "name":"Radio Top",
 "imageurl":"https://raw.githubusercontent.com/Koizeay/Sharing/main/KZ-Radio/logos/ch_de/radio-top.png",
-"url":"http://icecast.radiotop.ch/radiotop_128"
+"url":"https://radiotop.ice.infomaniak.ch/radiotop96.aac"
 },
 {
 "name":"Radio Zurisee",
 "imageurl":"https://raw.githubusercontent.com/Koizeay/Sharing/main/KZ-Radio/logos/ch_de/radio-zurisee.png",
-"url":"http://mp3.radio.ch/radiozuerisee128k"
+"url":"https://mp3.radio.ch/radiozuerisee128k"
 },
 {
 "name":"SRF 1",
 "imageurl":"https://raw.githubusercontent.com/Koizeay/Sharing/main/KZ-Radio/logos/ch_de/srf1.png",
-"url":"http://stream.srg-ssr.ch/m/drs1/mp3_128"
+"url":"https://stream.srg-ssr.ch/m/drs1/mp3_128"
 },
 {
 "name":"SRF 2",
 "imageurl":"https://raw.githubusercontent.com/Koizeay/Sharing/main/KZ-Radio/logos/ch_de/srf2.png",
-"url":"http://stream.srg-ssr.ch/m/drs2/mp3_128"
+"url":"https://stream.srg-ssr.ch/m/drs2/mp3_128"
 },
 {
 "name":"SRF 3",
 "imageurl":"https://raw.githubusercontent.com/Koizeay/Sharing/main/KZ-Radio/logos/ch_de/srf3.png",
-"url":"http://stream.srg-ssr.ch/m/drs3/mp3_128"
+"url":"https://stream.srg-ssr.ch/m/drs3/mp3_128"
 },
 {
 "name":"SRF 4",
 "imageurl":"https://raw.githubusercontent.com/Koizeay/Sharing/main/KZ-Radio/logos/ch_de/srf4.png",
-"url":"http://stream.srg-ssr.ch/m/drs4news/mp3_128"
+"url":"https://stream.srg-ssr.ch/m/drs4news/mp3_128"
 },
 {
 "name":"SRF Musikwelle",
 "imageurl":"https://raw.githubusercontent.com/Koizeay/Sharing/main/KZ-Radio/logos/ch_de/srf-musikwelle.png",
-"url":"http://stream.srg-ssr.ch/m/drsmw/mp3_128"
+"url":"https://stream.srg-ssr.ch/m/drsmw/mp3_128"
 },
 {
 "name":"SRF Virus",
 "imageurl":"https://raw.githubusercontent.com/Koizeay/Sharing/main/KZ-Radio/logos/ch_de/srf-virus.png",
-"url":"http://stream.srg-ssr.ch/m/drsvirus/mp3_128"
+"url":"https://stream.srg-ssr.ch/m/drsvirus/mp3_128"
 },
 {
 "name":"Stadtfilter",
 "imageurl":"https://raw.githubusercontent.com/Koizeay/Sharing/main/KZ-Radio/logos/ch_de/stadtfilter.png",
-"url":"http://streamer1.stadtfilter.net:8406/stadtfilter.mp3"
+"url":"https://streamer.stadtfilter.net/stadtfilter.mp3"
 },
 {
 "name":"Top Two",
@@ -118,7 +118,7 @@
 {
 "name":"Vintage Radio",
 "imageurl":"https://raw.githubusercontent.com/Koizeay/Sharing/main/KZ-Radio/logos/ch_de/vintage-radio.png",
-"url":"http://vintageradio.ice.infomaniak.ch/vintageradio-high.mp3"
+"url":"https://vintageradio.ice.infomaniak.ch/vintageradio-high.mp3"
 }
 ]
 }

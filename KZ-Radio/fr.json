@@ -3,87 +3,87 @@
 {
 "name":"Chérie FM",
 "imageurl":"https://raw.githubusercontent.com/Koizeay/Sharing/main/KZ-Radio/logos/fr/cherie-fm.png",
-"url":"http://scdn.nrjaudio.fm/adwz2/fr/30201/mp3_128.mp3"
+"url":"https://scdn.nrjaudio.fm/adwz2/fr/30201/mp3_128.mp3"
 },
 {
 "name":"Europe 1",
 "imageurl":"https://raw.githubusercontent.com/Koizeay/Sharing/main/KZ-Radio/logos/fr/europe1.png",
-"url":"http://stream.europe1.fr/europe1.mp3"
+"url":"https://stream.europe1.fr/europe1.mp3"
 },
 {
 "name":"Europe 2",
 "imageurl":"https://raw.githubusercontent.com/Koizeay/Sharing/main/KZ-Radio/logos/fr/europe2.png",
-"url":"http://europe2.lmn.fm/europe2.mp3"
+"url":"https://europe2.lmn.fm/europe2.mp3"
 },
 {
 "name":"Flip",
 "imageurl":"https://raw.githubusercontent.com/Koizeay/Sharing/main/KZ-Radio/logos/fr/flip.png",
-"url":"http://icecast.radiofrance.fr/fip-midfi.mp3"
+"url":"https://icecast.radiofrance.fr/fip-midfi.mp3"
 },
 {
 "name":"France Culture",
 "imageurl":"https://raw.githubusercontent.com/Koizeay/Sharing/main/KZ-Radio/logos/fr/france-culture.png",
-"url":"http://icecast.radiofrance.fr/franceculture-midfi.mp3"
+"url":"https://icecast.radiofrance.fr/franceculture-midfi.mp3"
 },
 {
 "name":"France Info",
 "imageurl":"https://raw.githubusercontent.com/Koizeay/Sharing/main/KZ-Radio/logos/fr/france-info.png",
-"url":"http://icecast.radiofrance.fr/franceinfo-midfi.mp3"
+"url":"https://icecast.radiofrance.fr/franceinfo-midfi.mp3"
 },
 {
 "name":"France Inter",
 "imageurl":"https://raw.githubusercontent.com/Koizeay/Sharing/main/KZ-Radio/logos/fr/france-inter.png",
-"url":"http://icecast.radiofrance.fr/franceinter-midfi.mp3"
+"url":"https://icecast.radiofrance.fr/franceinter-midfi.mp3"
 },
 {
 "name":"France Musique",
 "imageurl":"https://raw.githubusercontent.com/Koizeay/Sharing/main/KZ-Radio/logos/fr/france-musique.png",
-"url":"http://direct.francemusique.fr/live/francemusique-midfi.mp3"
+"url":"https://icecast.radiofrance.fr/francemusique-midfi.mp3"
 },
 {
 "name":"Fun Radio France",
 "imageurl":"https://raw.githubusercontent.com/Koizeay/Sharing/main/KZ-Radio/logos/fr/fun-radio.png",
-"url":"http://streamer-01.rtl.fr/fun-1-44-128"
+"url":"https://streamer-01.rtl.fr/fun-1-44-128"
 },
 {
 "name":"M Radio",
 "imageurl":"https://raw.githubusercontent.com/Koizeay/Sharing/main/KZ-Radio/logos/fr/m-radio.png",
-"url":"http://mfm.ice.infomaniak.ch/mfm-128.mp3"
+"url":"https://mfm.ice.infomaniak.ch/mfm-128.mp3"
 },
 {
 "name":"Mouv'",
 "imageurl":"https://raw.githubusercontent.com/Koizeay/Sharing/main/KZ-Radio/logos/fr/mouv.png",
-"url":"http://icecast.radiofrance.fr/mouv-midfi.mp3"
+"url":"https://icecast.radiofrance.fr/mouv-midfi.mp3"
 },
 {
 "name":"Nostalgie France",
 "imageurl":"https://raw.githubusercontent.com/Koizeay/Sharing/main/KZ-Radio/logos/fr/nostalgie.png",
-"url":"http://scdn.nrjaudio.fm/adwz2/fr/30601/mp3_128.mp3"
+"url":"https://scdn.nrjaudio.fm/adwz2/fr/30601/mp3_128.mp3"
 },
 {
 "name":"NRJ (France)",
 "imageurl":"https://raw.githubusercontent.com/Koizeay/Sharing/main/KZ-Radio/logos/fr/nrj.png",
-"url":"http://scdn.nrjaudio.fm/adwz2/fr/30001/mp3_128.mp3"
+"url":"https://scdn.nrjaudio.fm/adwz2/fr/30001/mp3_128.mp3"
 },
 {
 "name":"Ouï FM",
 "imageurl":"https://raw.githubusercontent.com/Koizeay/Sharing/main/KZ-Radio/logos/fr/oui-fm.png",
-"url":"http://ouifm.ice.infomaniak.ch/ouifm-high.mp3"
+"url":"https://ouifm.ice.infomaniak.ch/ouifm-high.mp3"
 },
 {
 "name":"Phare FM",
 "imageurl":"https://raw.githubusercontent.com/Koizeay/Sharing/main/KZ-Radio/logos/fr/phare-fm.png",
-"url":"http://str0.creacast.com/pharefm"
+"url":"https://str0.creacast.com/pharefm"
 },
 {
 "name":"Radio Classique",
 "imageurl":"https://raw.githubusercontent.com/Koizeay/Sharing/main/KZ-Radio/logos/fr/radio-classique.png",
-"url":"http://radioclassique.ice.infomaniak.ch/radioclassique-high.mp3"
+"url":"https://radioclassique.ice.infomaniak.ch/radioclassique-high.mp3"
 },
 {
 "name":"Rire & Chansons",
 "imageurl":"https://raw.githubusercontent.com/Koizeay/Sharing/main/KZ-Radio/logos/fr/rire-chansons.png",
-"url":"http://scdn.nrjaudio.fm/adwz2/fr/30401/mp3_128.mp3"
+"url":"https://scdn.nrjaudio.fm/adwz2/fr/30401/mp3_128.mp3"
 },
 {
 "name":"RFM",
@@ -93,17 +93,17 @@
 {
 "name":"RTL",
 "imageurl":"https://raw.githubusercontent.com/Koizeay/Sharing/main/KZ-Radio/logos/fr/rtl.png",
-"url":"http://icecast.rtl.fr/rtl-1-44-128"
+"url":"https://streamer-04.rtl.fr/rtl-1-44-128"
 },
 {
 "name":"RTL 2",
 "imageurl":"https://raw.githubusercontent.com/Koizeay/Sharing/main/KZ-Radio/logos/fr/rtl2.png",
-"url":"http://streamer-02.rtl.fr/rtl2-1-44-128"
+"url":"https://streamer-02.rtl.fr/rtl2-1-44-128"
 },
 {
 "name":"Skyrock",
 "imageurl":"https://raw.githubusercontent.com/Koizeay/Sharing/main/KZ-Radio/logos/fr/skyrock.png",
-"url":"http://icecast.skyrock.net/s/natio_mp3_128k"
+"url":"https://icecast.skyrock.net/s/natio_mp3_128k"
 }
 ]
 }
