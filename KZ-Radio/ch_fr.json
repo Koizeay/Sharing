@@ -1,9 +1,9 @@
 {
 "radios":[
 {
-"name":"Canal 3",
-"imageurl":"https://raw.githubusercontent.com/Koizeay/Sharing/main/KZ-Radio/logos/ch_fr/canal3.png",
-"url":"https://radio.upstream-cloud.ch/canal3francais-192.mp3"
+"name":"Fonik Radio",
+"imageurl":"https://raw.githubusercontent.com/Koizeay/Sharing/main/KZ-Radio/logos/ch_fr/fonik-radio.png",
+"url":"https://fonikradio.ice.infomaniak.ch/fonikradio-high.mp3"
 },
 {
 "name":"GRRIF",
