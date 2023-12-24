@@ -1,0 +1,24 @@
+{
+	"radios":[
+		{
+		"name":"Chérie FM (Noël)",
+		"imageurl":"https://raw.githubusercontent.com/Koizeay/Sharing/main/KZ-Radio/more/cherie_fm_noel.png",
+		"url":"https://scdn.nrjaudio.fm/adwz1/fr/57033/mp3_128.mp3"
+		},
+		{
+		"name":"Radio Noël",
+		"imageurl":"https://raw.githubusercontent.com/Koizeay/Sharing/main/KZ-Radio/more/radio_noel.png",
+		"url":"https://listen.radioking.com/radio/105919/stream/298042"
+		},
+		{
+		"name":"Nostalgie Noël",
+		"imageurl":"https://raw.githubusercontent.com/Koizeay/Sharing/main/KZ-Radio/more/nostalgie_noel.png",
+		"url":"https://scdn.nrjaudio.fm/adwz1/fr/55310/mp3_128.mp3"
+		},
+		{
+		"name":"NRJ Noël",
+		"imageurl":"https://raw.githubusercontent.com/Koizeay/Sharing/main/KZ-Radio/more/nrj_noel.png",
+		"url":"https://scdn.nrjaudio.fm/adwz1/fr/55372/mp3_128.mp3"
+		}
+	]
+}
