@@ -43,7 +43,12 @@
 {
 "name":"Radio BeO",
 "imageurl":"https://raw.githubusercontent.com/Koizeay/Sharing/main/KZ-Radio/logos/ch_de/radio-beo.png",
-"url":"https://radiobeo2.mp3.green.ch/beo.mp3"
+"url":"https://stream12.radiobeo.ch/beo_mp3_192"
+},
+{
+"name":"Radio Central",
+"imageurl":"https://raw.githubusercontent.com/Koizeay/Sharing/main/KZ-Radio/logos/ch_de/radio-central.png",
+"url":"https://chmedia.streamabc.net/79-rcentral-mp3-192-1355604"
 },
 {
 "name":"Radio Freiburg",
@@ -51,19 +56,14 @@
 "url":"https://radiofreiburg.ice.infomaniak.ch/radiofreiburg-high.mp3"
 },
 {
-"name":"Radio Inside",
-"imageurl":"https://raw.githubusercontent.com/Koizeay/Sharing/main/KZ-Radio/logos/ch_de/radio-inside.png",
-"url":"https://radioinside.ice.infomaniak.ch/radioinside-128.mp3"
-},
-{
-"name":"Radio Kaiseregg",
-"imageurl":"https://raw.githubusercontent.com/Koizeay/Sharing/main/KZ-Radio/logos/ch_de/radio-kaiseregg.png",
-"url":"https://kaiseregg.ice.infomaniak.ch/stream128k.mp3"
+"name":"Radio Melody",
+"imageurl":"https://raw.githubusercontent.com/Koizeay/Sharing/main/KZ-Radio/logos/ch_de/radio-melody.png",
+"url":"https://chmedia.streamabc.net/79-rm-mp3-192-7754268"
 },
 {
 "name":"Radio Munot",
 "imageurl":"https://raw.githubusercontent.com/Koizeay/Sharing/main/KZ-Radio/logos/ch_de/radio-munot.png",
-"url":"https://stream.srg-ssr.ch/m/radiomunot/mp3_128"
+"url":"https://munot.ch-central-4.streaming.deliver.media/munot_mp3_128"
 },
 {
 "name":"Radio Top",
