@@ -1,11 +1,6 @@
 {
 "radios":[
 {
-"name":"Fonik Radio",
-"imageurl":"https://raw.githubusercontent.com/Koizeay/Sharing/main/KZ-Radio/logos/ch_fr/fonik-radio.png",
-"url":"https://fonikradio.ice.infomaniak.ch/fonikradio-high.mp3"
-},
-{
 "name":"GRRIF",
 "imageurl":"https://raw.githubusercontent.com/Koizeay/Sharing/main/KZ-Radio/logos/ch_fr/grrif.png",
 "url":"https://grrif.ice.infomaniak.ch/grrif-high.mp3"
@@ -19,11 +14,6 @@
 "name":"Magic Radio",
 "imageurl":"https://raw.githubusercontent.com/Koizeay/Sharing/main/KZ-Radio/logos/ch_fr/magicradio.png",
 "url":"https://magicradio.ice.infomaniak.ch/magicradio-high.mp3"
-},
-{
-"name":"NRJ Leman",
-"imageurl":"https://raw.githubusercontent.com/Koizeay/Sharing/main/KZ-Radio/logos/ch_fr/nrjleman.png",
-"url":"https://scdn.nrjaudio.fm/ch/50001/mp3_128.mp3?cdn_path=audio_lbs12"
 },
 {
 "name":"One FM",

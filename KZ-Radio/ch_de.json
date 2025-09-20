@@ -8,7 +8,7 @@
 {
 "name":"Diis Radio",
 "imageurl":"https://raw.githubusercontent.com/Koizeay/Sharing/main/KZ-Radio/logos/ch_de/diis-radio.png",
-"url":"https://stream.diis.ch/stream"
+"url":"https://cast4.asurahosting.com/proxy/diisradi/stream"
 },
 {
 "name":"GDS.FM",
@@ -109,11 +109,6 @@
 "name":"Stadtfilter",
 "imageurl":"https://raw.githubusercontent.com/Koizeay/Sharing/main/KZ-Radio/logos/ch_de/stadtfilter.png",
 "url":"https://streamer.stadtfilter.net/stadtfilter.mp3"
-},
-{
-"name":"Top Two",
-"imageurl":"https://raw.githubusercontent.com/Koizeay/Sharing/main/KZ-Radio/logos/ch_de/top-two.png",
-"url":"https://radiotop.ice.infomaniak.ch/toptwo96.aac"
 },
 {
 "name":"Vintage Radio",
